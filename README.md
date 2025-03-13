@@ -39,6 +39,6 @@ The project is implemented in C++ in accordance with the OOP paradigm.
 6. В приложении будет база данных с полной информацией о картинах (менять информацию может только администратор во избежание фактических ошибок). 
 
 **Схема классов**
-![alt text](source/Scheme.pdf)
+![alt text](source/Scheme.jpg)
 
 
