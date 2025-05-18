@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A171272-E53B-4229-B4E3-448071786A2E}|ArtGallery\\ArtGallery.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\ArtGallery\\art_gallery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A171272-E53B-4229-B4E3-448071786A2E}|ArtGallery\\ArtGallery.vcxproj|solutionrelative:ArtGallery\\art_gallery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A171272-E53B-4229-B4E3-448071786A2E}|ArtGallery\\ArtGallery.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\ArtGallery\\art_gallery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A171272-E53B-4229-B4E3-448071786A2E}|ArtGallery\\ArtGallery.vcxproj|solutionrelative:ArtGallery\\art_gallery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC9CC26-954A-4414-BBA7-F691F60FCE63}|Author\\Author.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Author\\author.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBC9CC26-954A-4414-BBA7-F691F60FCE63}|Author\\Author.vcxproj|solutionrelative:Author\\author.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC9CC26-954A-4414-BBA7-F691F60FCE63}|Author\\Author.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Author\\author.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBC9CC26-954A-4414-BBA7-F691F60FCE63}|Author\\Author.vcxproj|solutionrelative:Author\\author.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BC2DB1-EB68-406E-A256-6D03A3017887}|Date\\Date.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Date\\date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0BC2DB1-EB68-406E-A256-6D03A3017887}|Date\\Date.vcxproj|solutionrelative:Date\\date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BC2DB1-EB68-406E-A256-6D03A3017887}|Date\\Date.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Date\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0BC2DB1-EB68-406E-A256-6D03A3017887}|Date\\Date.vcxproj|solutionrelative:Date\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92053F27-8F41-4FF3-82FD-123456CFC7D8}|Passport\\Passport.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Passport\\passport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92053F27-8F41-4FF3-82FD-123456CFC7D8}|Passport\\Passport.vcxproj|solutionrelative:Passport\\passport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92053F27-8F41-4FF3-82FD-123456CFC7D8}|Passport\\Passport.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Passport\\passport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92053F27-8F41-4FF3-82FD-123456CFC7D8}|Passport\\Passport.vcxproj|solutionrelative:Passport\\passport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1F5EE6-67F4-47AF-81CF-40041B116364}|Ticket\\Ticket.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Ticket\\ticket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D1F5EE6-67F4-47AF-81CF-40041B116364}|Ticket\\Ticket.vcxproj|solutionrelative:Ticket\\ticket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1F5EE6-67F4-47AF-81CF-40041B116364}|Ticket\\Ticket.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Ticket\\ticket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D1F5EE6-67F4-47AF-81CF-40041B116364}|Ticket\\Ticket.vcxproj|solutionrelative:Ticket\\ticket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB3C768-EB3C-46AD-BB7F-59D468C7A79D}|Employee\\Employee.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Employee\\employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AB3C768-EB3C-46AD-BB7F-59D468C7A79D}|Employee\\Employee.vcxproj|solutionrelative:Employee\\employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB3C768-EB3C-46AD-BB7F-59D468C7A79D}|Employee\\Employee.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Employee\\employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AB3C768-EB3C-46AD-BB7F-59D468C7A79D}|Employee\\Employee.vcxproj|solutionrelative:Employee\\employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E07ABB-C3DE-4AB9-8D85-A4785D2B6906}|Event\\Event.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Event\\event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3E07ABB-C3DE-4AB9-8D85-A4785D2B6906}|Event\\Event.vcxproj|solutionrelative:Event\\event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E07ABB-C3DE-4AB9-8D85-A4785D2B6906}|Event\\Event.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Event\\event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3E07ABB-C3DE-4AB9-8D85-A4785D2B6906}|Event\\Event.vcxproj|solutionrelative:Event\\event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D571910-2B46-4BAE-81DB-5D9880127F9A}|Hall\\Hall.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Hall\\hall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D571910-2B46-4BAE-81DB-5D9880127F9A}|Hall\\Hall.vcxproj|solutionrelative:Hall\\hall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D571910-2B46-4BAE-81DB-5D9880127F9A}|Hall\\Hall.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Hall\\hall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D571910-2B46-4BAE-81DB-5D9880127F9A}|Hall\\Hall.vcxproj|solutionrelative:Hall\\hall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7C55D-EA84-4B6B-ADBD-AFF2A7067DA2}|Painting\\Painting.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Painting\\painting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46F7C55D-EA84-4B6B-ADBD-AFF2A7067DA2}|Painting\\Painting.vcxproj|solutionrelative:Painting\\painting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7C55D-EA84-4B6B-ADBD-AFF2A7067DA2}|Painting\\Painting.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Painting\\painting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46F7C55D-EA84-4B6B-ADBD-AFF2A7067DA2}|Painting\\Painting.vcxproj|solutionrelative:Painting\\painting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Paintings\\paintings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Paintings\\paintings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C8FB8-69BA-4B73-B9DC-9530E0B8B3E2}|FIO\\FIO.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\FIO\\fio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D28C8FB8-69BA-4B73-B9DC-9530E0B8B3E2}|FIO\\FIO.vcxproj|solutionrelative:FIO\\fio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C8FB8-69BA-4B73-B9DC-9530E0B8B3E2}|FIO\\FIO.vcxproj|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\FIO\\fio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D28C8FB8-69BA-4B73-B9DC-9530E0B8B3E2}|FIO\\FIO.vcxproj|solutionrelative:FIO\\fio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Paintings\\paintings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Paintings\\paintings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "art_gallery.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\ArtGallery\\art_gallery.h",
+              "RelativeDocumentMoniker": "ArtGallery\\art_gallery.h",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\ArtGallery\\art_gallery.h",
+              "RelativeToolTip": "ArtGallery\\art_gallery.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T19:37:07.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "art_gallery.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\ArtGallery\\art_gallery.cpp",
+              "RelativeDocumentMoniker": "ArtGallery\\art_gallery.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\ArtGallery\\art_gallery.cpp",
+              "RelativeToolTip": "ArtGallery\\art_gallery.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T19:36:34.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "author.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Author\\author.h",
+              "RelativeDocumentMoniker": "Author\\author.h",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Author\\author.h",
+              "RelativeToolTip": "Author\\author.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T19:33:59.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "author.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Author\\author.cpp",
+              "RelativeDocumentMoniker": "Author\\author.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Author\\author.cpp",
+              "RelativeToolTip": "Author\\author.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T19:33:48.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "date.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Date\\date.h",
+              "RelativeDocumentMoniker": "Date\\date.h",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Date\\date.h",
+              "RelativeToolTip": "Date\\date.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T19:32:28.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "date.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Date\\date.cpp",
+              "RelativeDocumentMoniker": "Date\\date.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Date\\date.cpp",
+              "RelativeToolTip": "Date\\date.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T19:32:17.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "passport.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Passport\\passport.h",
+              "RelativeDocumentMoniker": "Passport\\passport.h",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Passport\\passport.h",
+              "RelativeToolTip": "Passport\\passport.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T19:30:21.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "passport.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Passport\\passport.cpp",
+              "RelativeDocumentMoniker": "Passport\\passport.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Passport\\passport.cpp",
+              "RelativeToolTip": "Passport\\passport.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T19:30:10.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ticket.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Ticket\\ticket.h",
+              "RelativeDocumentMoniker": "Ticket\\ticket.h",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Ticket\\ticket.h",
+              "RelativeToolTip": "Ticket\\ticket.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T19:28:02.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ticket.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Ticket\\ticket.cpp",
+              "RelativeDocumentMoniker": "Ticket\\ticket.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Ticket\\ticket.cpp",
+              "RelativeToolTip": "Ticket\\ticket.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T19:27:51.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "employee.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Employee\\employee.h",
+              "RelativeDocumentMoniker": "Employee\\employee.h",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Employee\\employee.h",
+              "RelativeToolTip": "Employee\\employee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T19:26:55.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "employee.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Employee\\employee.cpp",
+              "RelativeDocumentMoniker": "Employee\\employee.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Employee\\employee.cpp",
+              "RelativeToolTip": "Employee\\employee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T19:26:44.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "event.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Event\\event.h",
+              "RelativeDocumentMoniker": "Event\\event.h",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Event\\event.h",
+              "RelativeToolTip": "Event\\event.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T19:25:39.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "event.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Event\\event.cpp",
+              "RelativeDocumentMoniker": "Event\\event.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Event\\event.cpp",
+              "RelativeToolTip": "Event\\event.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T19:25:27.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "hall.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Hall\\hall.h",
+              "RelativeDocumentMoniker": "Hall\\hall.h",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Hall\\hall.h",
+              "RelativeToolTip": "Hall\\hall.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T19:24:13.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "hall.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Hall\\hall.cpp",
+              "RelativeDocumentMoniker": "Hall\\hall.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Hall\\hall.cpp",
+              "RelativeToolTip": "Hall\\hall.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T19:24:03.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "painting.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Painting\\painting.h",
+              "RelativeDocumentMoniker": "Painting\\painting.h",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Painting\\painting.h",
+              "RelativeToolTip": "Painting\\painting.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T19:22:53.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "painting.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Painting\\painting.cpp",
+              "RelativeDocumentMoniker": "Painting\\painting.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Painting\\painting.cpp",
+              "RelativeToolTip": "Painting\\painting.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T19:22:32.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "paintings.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Paintings\\paintings.h",
+              "RelativeDocumentMoniker": "Paintings\\paintings.h",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Paintings\\paintings.h",
+              "RelativeToolTip": "Paintings\\paintings.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T19:17:55.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "paintings.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Paintings\\paintings.cpp",
+              "RelativeDocumentMoniker": "Paintings\\paintings.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\Paintings\\paintings.cpp",
+              "RelativeToolTip": "Paintings\\paintings.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T19:16:39.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "fio.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\FIO\\fio.h",
+              "RelativeDocumentMoniker": "FIO\\fio.h",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\FIO\\fio.h",
+              "RelativeToolTip": "FIO\\fio.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T19:13:03.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "fio.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\FIO\\fio.cpp",
+              "RelativeDocumentMoniker": "FIO\\fio.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\source\\repos\\ArtGallery\\FIO\\fio.cpp",
+              "RelativeToolTip": "FIO\\fio.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T19:12:37.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
